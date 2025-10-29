@@ -14,7 +14,7 @@ export default function Header() {
             <div className="w-8 h-8 flex items-center justify-center">
               <i className="ri-bus-2-line text-2xl text-red-500"></i>
             </div>
-            <span className="text-xl font-semibold text-gray-900">EduTransConnect</span>
+            <span className="text-xl font-semibold text-gray-900">SureRide</span>
           </Link>
 
           {/* Desktop Navigation */}

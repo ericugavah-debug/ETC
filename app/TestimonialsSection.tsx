@@ -6,7 +6,7 @@ export default function TestimonialsSection() {
       name: 'Adebayo Olakunle',
       university: 'University of Lagos',
       rating: 5,
-      text: 'EduTransConnect made my journey from Lagos to Ibadan so smooth and affordable. The GPS tracking gave my parents peace of mind.'
+      text: 'SureRide made my journey from Lagos to Ibadan so smooth and affordable. The GPS tracking gave my parents peace of mind.'
     },
     {
       name: 'Chinelo Okafor',

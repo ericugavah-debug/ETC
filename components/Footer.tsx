@@ -12,7 +12,7 @@ export default function Footer() {
               <div className="w-8 h-8 flex items-center justify-center">
                 <i className="ri-bus-2-line text-2xl text-red-500"></i>
               </div>
-              <span className="text-xl font-semibold">EduTransConnect</span>
+              <span className="text-xl font-semibold">SureRide</span>
             </div>
             <p className="text-gray-400 mb-4 max-w-md">
               Safe, affordable, and convenient interstate travel for Nigerian university students. 
@@ -53,7 +53,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
-          <p className="text-gray-400">&copy; 2024 EduTransConnect. All rights reserved.</p>
+          <p className="text-gray-400">&copy; 2024 SureRide. All rights reserved.</p>
         </div>
       </div>
     </footer>
